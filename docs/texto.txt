@@ -1,0 +1,22 @@
+bloque nav
+------------
+Inicio
+Productos
+Servicios
+Blog
+Ventas
+Políticas
+Contacto
+
+
+-------------
+Filtro
+Categorias
+----------------
+hr linea horizontal
+Pasteles
+Cupcake
+Bocaditos
+
+bloque section
+----------------
